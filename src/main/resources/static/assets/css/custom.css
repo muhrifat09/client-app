@@ -1,0 +1,46 @@
+body {
+    padding-bottom: 0px;
+}
+
+div.topnav {
+    background: var(--main-color);
+}
+
+.topbar-nav ul.metismenu > li > a {
+    color: white !important;
+}
+
+.topbar-nav ul.metismenu > li > a > svg {
+    color: white !important;
+}
+
+.topbar-nav .metismenu li a:active, .topbar-nav .metismenu li a:focus, .topbar-nav .metismenu li a:hover {
+    color: #f2f2f2;
+}
+
+.topbar-nav .metismenu li a:active svg, .topbar-nav .metismenu li a:focus svg, .topbar-nav .metismenu li a:hover svg {
+    color: #f2f2f2;
+}
+
+.footer-color {
+    background-color: #292d36;
+    color: white;
+}
+
+.footer-color a {
+    color: white;
+}
+
+.footer-color h1, .footer-color h2, .footer-color h3, .footer-color h4, .footer-color h5, .footer-color h6 {
+    color: white;
+}
+
+.btn-base {
+    background-color: var(--main-color);
+    border-color: var(--main-color);
+}
+
+.tbl-base thead {
+    background-color: var(--main-color);
+    color: white;
+}
